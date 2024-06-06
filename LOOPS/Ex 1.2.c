@@ -8,7 +8,7 @@ int main() {
 
     printf("Numbers in reverse order from %d to 1:\n", n);
 
-    for (i = n; i >= 1; i--) {
+    for (i = n; i >= 2; i--) {
         printf("%d ", i);
     }
 
